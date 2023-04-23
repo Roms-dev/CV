@@ -14,7 +14,8 @@ function skills() {
         <Skill title="SQL" rating="5"/>
         <Skill title="PHP" rating="3"/>
         <Skill title=".NET" rating="2"/>
-        <Skill title="REACT" rating="2"/>
+        <Skill title="REACT" rating="4"/>
+        <Skill title="SYMPHONY" rating="3"/>
         <Skill title="UML" rating="4"/>
     </div>
 
